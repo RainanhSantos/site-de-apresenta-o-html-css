@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vg; 
+    box-sizing: border-box;
+    background-color: black;
+    color: #F6F6F6;
+}
+
+.featured-title {
+    color: #22D4FD;
+}
+
+.presentation {
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.presentation__content {
+    width: 615px;
+}
+
+.presentation__content__title {
+    font-size: 36px;
+}
+
+.presentation__content__text {
+    font-size: 24px;
+}
